@@ -1,0 +1,2 @@
+This dataset contains 1 million data points to predict salary, given factors such as company, education, field, years of experience, etc. 
+It's a very 'clean' dataset in that there no missing or null data points to deal with, nor are there any numerical or categorical values that seem out of place. Because of this, I'm using this to refamiliarize myself with the Python syntax and the pandas, numpy and matplotlib libraries in particular.
