@@ -1,3 +1,3 @@
 # Data Science & Machine Learning
 
-Repo for Data Science and Machine Learning Projects
+A place for Data Science and Machine Learning Projects
